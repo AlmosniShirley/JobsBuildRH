@@ -12,3 +12,5 @@ j’ai fait de mes multiples jobs un unique fil conducteur :
 - aider à pousser l’innovation sociale pour apporter un meilleur cadre de vie au travail,
   
 Passionnée par mon métier, j’aime partager mes idées, mes réflexions, et mes combats !
+
+Voici mon site internet [BUILD RH](https://www.build-rh.com/)
