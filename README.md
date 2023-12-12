@@ -14,3 +14,5 @@ j’ai fait de mes multiples jobs un unique fil conducteur :
 Passionnée par mon métier, j’aime partager mes idées, mes réflexions, et mes combats !
 
 Voici mon site internet [BUILD RH](https://www.build-rh.com/)
+
+Et vous pouvez trouver l'ensemble de mes annonces en recrutement dans la partie [Issues](https://github.com/AlmosniShirley/JobsBuildRH/issues)
